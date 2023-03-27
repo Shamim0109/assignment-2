@@ -1,0 +1,44 @@
+/* Headers Styles  */
+header{
+    text-align: center;
+    background-color: rgba(255, 144, 14, 0.1);
+    margin-top: 0;
+    padding-top: 50px;
+}
+.header-text{
+    margin: 0 auto;
+    color: blue;
+    margin-top: 102px;
+    padding-left: 228px;
+    padding-top: 50px;
+    padding-right: 240px;
+}
+.header-text h1{
+    color: #131313;
+    font-style: Bold;
+    font-size: 64px;
+}
+.header-text p{
+    font-size: 16px;
+    color: #727272;
+}
+.header-text button{
+    padding: 21px 25px;
+    font-size: 20px;
+    background-color: #FF900E;
+    color: #FFFFFF;
+    border: 0;
+    border-radius: 8px;
+}
+
+.header-banner{
+    padding: 45px 240px;
+}
+.header-banner img{
+    width: 100%;
+}
+
+/* feature */
+.feature{
+    margin: 130px 24px;
+}
